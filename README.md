@@ -30,3 +30,11 @@ An attacker machine running KaliLinux was used to perform scans, exploit attempt
 
 ---
 
+## Project Goals
+
+-Simulate real-world penetration testing in an isolated lab
+-Compare exposure and response between UK and Norwegian regulatory environments
+-Demonstrate how compliance frameworks influence technical control
+-Document findings with evidence, screenshots, and remediation notes
+
+---
