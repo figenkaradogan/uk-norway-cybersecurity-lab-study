@@ -50,5 +50,11 @@ Lab hosted in VirtualBox using NAT networking. Configuration, snapshots, and out
 ## Project Status
 | Phase | Description | Status |
 |-------|-------------|--------|
-| Setup | virtual machines, networking | :white_check_mark:|
+| Setup | virtual machines, networking | ✅ Complete |
+|Compliance research | Cyber Essentials & NIS2 | ✅ Complete |
+| Lab Testing | scanning, exploitation, hardening | 🟨 In Progress |
+| Report Writting | comparative analysis & findings | ⏳ Upcoming |
+| Final Submission | EMA Dissertation | ⏳ Upcoming Autumn 2025 |
+
+
 ---
