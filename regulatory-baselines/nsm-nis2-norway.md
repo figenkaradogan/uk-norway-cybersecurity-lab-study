@@ -1,4 +1,4 @@
-# Norway NSM / NIS2 – Risk-Based Security Baseline
+# Norway NSM / NIS2 – Risk-Based Security Baseline 
 
 Norway’s approach to NIS2 implementation, guided by the National Security Authority (NSM),
 emphasises risk reduction, minimisation, and resilience rather than checklist compliance.
