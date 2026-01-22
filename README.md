@@ -2,7 +2,8 @@
 A virtual penetration testing lab comparing UK Cyber Essentials and Norwegian NIS2 cybersecurity frameworks.
 
 **Project Type**: independent Security Lab 
-**Author**: [Figen Karadogan] (www.linkedin.com/in/figen-karadogan-bb666061)
+**Author**: Figen Karadogan
+🔗LinkedIn: https://www.linkedin.com/in/figen-karadogan-bb666061
 
 ## Project Overview
 This repository presents a completed virtual penetration testing lab developed as part of my BSc (Hons) Cybersecurity degree.
@@ -35,34 +36,20 @@ to support repeatable testing and accurate result comparison.
 
 ## Tools Used
 
--Kali Linux (2023.2)
--Nmap & Wireshark
--OWASP ZAP
--Burp Suite
--Metasploit Framework
--Windows PowerShell
--VirtualBox (VM Management)
+- **Kali Linux** – attack platform
+- **Nmap** – network discovery and service enumeration
+- **Metasploit Framework** – controlled exploitation and validation
+- **Nikto** – web server vulnerability scanning
+- **Windows PowerShell** – system configuration and verification
+- **Oracle VirtualBox** – virtual lab management
 
 ---
 
-## Objectives
+## Security Objectives
 
--Simulate real-world penetration testing in an isolated lab
--Compare system vulnerabilitites under two regulatory regimes
--Apply ethical hacking techniques in an isolated virtual lab
--Align technical hardening with policy requirments (NIS2 vs. Cyber Essentials)
--Document process, findings, and mitigation steps
+- Simulate ethical penetration testing within an isolated enterprise lab
+- Compare vulnerability exposure under different regulatory security baselines
+- Evaluate how compliance-driven and risk-driven frameworks affect attack surface
+- Apply structured reconnaissance, enumeration, and exploitation techniques
+- Document findings and relate them to defensive configuration choices
 
----
-
-## Project Status
-| Phase | Description | Status |
-|-------|-------------|--------|
-| Setup | virtual machines, networking | ✅ Complete |
-|Compliance research | Cyber Essentials & NIS2 | ✅ Complete |
-| Lab Testing | scanning, exploitation, hardening | 🟨 In Progress |
-| Report Writting | comparative analysis & findings | ⏳ Upcoming |
-| Final Submission | EMA Dissertation | ⏳ Upcoming Autumn 2025 |
-
-
----
