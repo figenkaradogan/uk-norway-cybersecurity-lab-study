@@ -1,15 +1,20 @@
-# Uk-Norway Cybersecurity Lab Study (Work in Progress)
+# UK-Norway Cybersecurity Penetration Testing Lab
 A virtual penetration testing lab comparing UK Cyber Essentials and Norwegian NIS2 cybersecurity frameworks.
 
-**Status**: In Progress | **Expected Completion**: Autumn 2025
+**Project Type**: independent Security Lab 
 **Author**: [Figen Karadogan] (www.linkedin.com/in/figen-karadogan-bb666061)
 
 ## Project Overview
-This repository contains the virtual lab components of my final-year cybersecurity dissertation. The project investigates how national cybersecurity frameworks — specifically the UK's **Cyber Essentials** and Norway's **NIS2/NSM** — influence enterprise network security posture.
+This repository presents a completed virtual penetration testing lab developed as part of my BSc (Hons) Cybersecurity degree.
 
-The lab simulates real-world network attacks on two hardened Windows 11 environments using Kali Linux. The aim is to compare vulnerability exposure and evaluate how regulatory frameworks shape technical configurations.
+The project evaluates how national cybersecurity frameworks influence enterprise security posture by comparing:
 
-> This repository is a **work in progress**. It will be updated as the dissertation project progresses.
+- 🇬🇧 **United Kingdom** – Cyber Essentials (compliance-driven baseline)
+- 🇳🇴 **Norway** – NSM-aligned implementation of NIS2 (risk-based approach)
+
+Two hardened Windows 11 systems were configured according to their respective frameworks and subjected to identical penetration testing techniques using Kali Linux.
+
+The objective was to assess differences in attack surface, visibility, and defensive effectiveness when regulatory requirements are translated into technical controls.
 
 ---
 
@@ -21,7 +26,10 @@ The lab simulates real-world network attacks on two hardened Windows 11 environm
 |UK-Win       |10.10.0.7      |Target system (Cyber Essentials)|
 |NO-Win       |10.10.0.8      |Target system (NIS2/NSM Norway) |
 
-Lab hosted in VirtualBox using NAT networking. Configuration, snapshots, and outputs will be provided during project phases.
+The lab was hosted in Oracle VirtualBox using a NAT network to ensure
+full isolation from external systems. Static IP addressing was used
+to support repeatable testing and accurate result comparison.
+
 
 ---
 
