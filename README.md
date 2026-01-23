@@ -53,3 +53,4 @@ to support repeatable testing and accurate result comparison.
 - Apply structured reconnaissance, enumeration, and exploitation techniques
 - Document findings and relate them to defensive configuration choices
 
+Update README to professional portfolio version
