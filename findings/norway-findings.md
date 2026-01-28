@@ -3,7 +3,7 @@
 Firewall rules on the Norwegian system were configured to restrict
 inbound SMB and file sharing services, reducing the attack surface.
 
-![Norway SMB Firewall Rules Disabled](../screenshots/norway/no-firewall-smb-disabled.md)
+![alt text](../screenshots/norway/no-firewall-smb-disabled.md)
 
 The PowerShell output confirms that inbound SMB rules were disabled on the
 Norwegian host. This configuration aligns with guidance from the Norwegian
