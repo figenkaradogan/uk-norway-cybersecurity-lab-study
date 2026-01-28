@@ -5,5 +5,12 @@ inbound SMB and file sharing services, reducing the attack surface.
 
 ![Norway SMB Firewall Rules Disabled](../screenshots/norway/no-firewall-smb-disabled.md)
 
-The output confirms that SMB inbound rules were disabled, aligning
-with NSM guidance on minimising exposed network services.
+The PowerShell output confirms that inbound SMB rules were disabled on the
+Norwegian host. This configuration aligns with guidance from the Norwegian
+National Security Authority (NSM) and NIS2 principles, which emphasise
+minimising exposed network services and enforcing restrictive default
+firewall policies.
+
+As a result, network enumeration revealed fewer accessible services,
+increasing resistance to lateral movement and reducing the likelihood
+of successful exploitation.
