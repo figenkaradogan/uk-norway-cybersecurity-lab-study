@@ -28,6 +28,13 @@ to produce a hardened, risk-driven system configuration.
 - Reduced reliance on signature-based detection alone
 - Focus on preventing lateral movement and persistence
 
+### 5.Network Security and Firewall Controls
+
+NSM guidance recommends restricting unnecessary services such as SMB.
+
+![SMB Disabled on Norwegian VM](../screenshots/norway/no-firewall-smb-disabled.png)
+
+
 ## Security Philosophy
 
 The NSM-aligned NIS2 approach prioritises risk minimisation
