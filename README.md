@@ -42,16 +42,17 @@ Both target machines were fully configured to their respective baselines *before
 | Core philosophy | Checklist compliance | Principle-driven minimisation |
 
 
-## Tools Used
+## Tooling
 
-- **Kali Linux** – attack platform
-- **Nmap** – network discovery and service enumeration
-- **Metasploit Framework** – controlled exploitation and validation
-- **Nikto** – web server vulnerability scanning
-- **Windows PowerShell** – system configuration and verification
-- **Oracle VirtualBox** – virtual lab management
-
----
+| Tool | Purpose |
+|---|---|
+| Nmap | Host discovery, port scanning, service enumeration |
+| Metasploit Framework | Controlled exploitation (EternalBlue MS17-010) |
+| Nikto | Web server vulnerability scanning |
+| Hydra | Credential brute-force testing (RDP) |
+| enum4linux | SMB/NetBIOS enumeration |
+| PowerShell | Baseline configuration and verification |
+| Oracle VirtualBox 7.1.10 | Lab environment management |
 
 ## Security Objectives
 
