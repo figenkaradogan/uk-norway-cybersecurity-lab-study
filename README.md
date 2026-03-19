@@ -1,5 +1,6 @@
 # UK-Norway Cybersecurity Penetration Testing Lab
-**Figen Karadogan · BSc (Hons) Cybersecurity** · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/figen-karadogan-bb666061)
+**Figen Karadogan · BSc (Hons) Cybersecurity**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/figen-karadogan-bb666061)
 ```
 [![Alt text](image URL)](link URL)
 Simpler, smaller.
