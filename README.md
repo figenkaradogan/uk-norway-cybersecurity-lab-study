@@ -27,9 +27,7 @@ Three virtual machines hosted in Oracle VirtualBox 7.1.10 on an isolated NAT net
 | UK-PC (Windows 11) | 10.10.0.4 | Target | UK Cyber Essentials v3.2 |
 | NO-PC (Windows 11) | 10.10.0.8 | Target | NSM / NIS2 |
 
-The lab was hosted in Oracle VirtualBox using a NAT network to ensure
-full isolation from external systems. Static IP addressing was used
-to support repeatable testing and accurate result comparison.
+Both target machines were fully configured to their respective baselines *before* any testing began. VirtualBox snapshots were taken at each configuration stage to preserve state and reproducibility.
 
 
 ---
