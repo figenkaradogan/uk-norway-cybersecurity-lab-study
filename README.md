@@ -30,7 +30,17 @@ Three virtual machines hosted in Oracle VirtualBox 7.1.10 on an isolated NAT net
 Both target machines were fully configured to their respective baselines *before* any testing began. VirtualBox snapshots were taken at each configuration stage to preserve state and reproducibility.
 
 
----
+## Regulatory Frameworks Compared
+
+| Aspect | United Kingdom | Norway (EEA/EU) |
+|---|---|---|
+| Primary driver | Compliance and certification | Risk management and due diligence |
+| Legal basis | UK GDPR, Data Protection Act 2018, Computer Misuse Act 1990 | EU GDPR (via EEA), Personal Data Act 2018, NIS2 Directive |
+| Patch management | Prescriptive (14-day patch rule) | Risk-based (criticality-driven) |
+| Incident reporting | 72 hours (UK GDPR) | 24 hours (NIS2) |
+| Tester role | *Auditor* (validating controls) | *Risk advisor* (informing risk decisions) |
+| Core philosophy | Checklist compliance | Principle-driven minimisation |
+
 
 ## Tools Used
 
