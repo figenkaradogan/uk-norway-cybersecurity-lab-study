@@ -6,7 +6,9 @@
 
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-blue) ![NIS2/NSM Norway](https://img.shields.io/badge/NIS2%2FNSM-Norway-teal) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-purple) ![Metasploit](https://img.shields.io/badge/Metasploit-red) ![Grade](https://img.shields.io/badge/Degree-2%3A1_Honours-brightgreen)
 
+## Research Question
 
+How does regulatory philosophy compliance-based (UK Cyber Essentials) versus risk-based (Norwegian NSM/NIS2) affect an organisation's technical security posture when measured through identical penetration testing methodology?
 
 ## Overview
 
