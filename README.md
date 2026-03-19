@@ -97,4 +97,15 @@ The NO-PC's NSM-aligned configuration demonstrated a secure by default posture â
 The NO-PC's configuration proved more effective at neutralising initial breach attempts across all tested attack vectors. Both frameworks support cybersecurity resilience, but Cyber Essentials adopts a compliance-based baseline that permits exposure where justified, whereas NSM embodies stricter principle-oriented minimisation of functionality. For organisations in Norway, this has direct implications: NIS2 transposition via Digitalsikkerhetsloven places stricter obligations than UK Cyber Essentials, and this study provides empirical evidence that those obligations produce measurably improved defensive outcomes.
 
 
+## Relevance to Norwegian Organisations
+
+Norway's NIS2 transposition via NSM and the Digitalsikkerhetsloven mandates:
+
+Proportionate technical measures and continuous risk assessment
+24-hour incident notification window for significant events (stricter than UK's 72-hour GDPR requirement)
+Risk-based patch management driven by criticality rather than prescriptive timelines
+Emphasis on insider risk, supply chain vulnerabilities, and procurement integrity (NSM, 2025)
+
+This lab provides practical, empirical evidence that NSM-aligned configurations produce measurably stronger defensive postures under real attack conditions â€” not merely in theory.
+
 Update README to professional portfolio version
