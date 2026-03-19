@@ -8,18 +8,9 @@
 
 
 
-## Project Overview
-This repository presents a completed virtual penetration testing lab developed as part of my BSc (Hons) Cybersecurity degree.
-
-The project evaluates how national cybersecurity frameworks influence enterprise security posture by comparing:
-
-- 🇬🇧 **United Kingdom** – Cyber Essentials (compliance-driven baseline)
-- 🇳🇴 **Norway** – NSM-aligned implementation of NIS2 (risk-based approach)
-
-Two hardened Windows 11 systems were configured according to their respective frameworks and subjected to identical penetration testing techniques using Kali Linux.
-
-The objective was to assess differences in attack surface, visibility, and defensive effectiveness when regulatory requirements are translated into technical controls.
-
+## Overview
+This repository presents the technical lab work and findings from my BSc dissertation: an empirical study of how national cybersecurity regulatory frameworks shape security outcomes when subjected to identical penetration testing methodologies.
+The project addresses a gap identified in the literature: while UK and Norwegian frameworks are well documented in policy terms, no prior empirical work had compared their technical effectiveness under real attack conditions. This project fills that gap by constructing controlled virtual environments, configuring them to their respective national baselines, and running identical attack sequences against both
 ---
 
 ## Lab Environment 
