@@ -1,14 +1,8 @@
 # UK-Norway Cybersecurity Penetration Testing Lab
-**Figen Karadogan · BSc (Hons) Cybersecurity**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/figen-karadogan-bb666061)
+**Figen Karadogan · BSc (Hons) Cybersecurity · Open University · 2025**
 
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-blue)
-![NIS2/NSM Norway](https://img.shields.io/badge/NIS2%2FNSM-Norway-teal) 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-purple) 
-![Metasploit](https://img.shields.io/badge/Metasploit-red) 
-![Grade](https://img.shields.io/badge/Degree-2%3A1_Honours-brightgreen) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/figen-karadogan-bb666061) ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-blue) ![NIS2/NSM Norway](https://img.shields.io/badge/NIS2%2FNSM-Norway-teal) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-purple) ![Metasploit](https://img.shields.io/badge/Metasploit-red) ![Grade](https://img.shields.io/badge/Degree-2%3A1_Honours-brightgreen)
 A virtual penetration testing lab comparing UK Cyber Essentials and Norwegian NIS2 cybersecurity frameworks.
 
 **Project Type**: independent Security Lab 
