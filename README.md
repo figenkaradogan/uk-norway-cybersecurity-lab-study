@@ -1,5 +1,5 @@
 # UK-Norway Cybersecurity Penetration Testing Lab
-Figen Karadogan·BSc (Hons) Cybersecurity·<Linkedin>(https://www.linkedin.com/in/figen-karadogan-bb666061)
+Figen Karadogan·BSc (Hons) Cybersecurity·<Linkedin(https://www.linkedin.com/in/figen-karadogan-bb666061)>
 A virtual penetration testing lab comparing UK Cyber Essentials and Norwegian NIS2 cybersecurity frameworks.
 
 **Project Type**: independent Security Lab 
