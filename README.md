@@ -3,6 +3,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/figen-karadogan-bb666061)
 ```
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-blue)
+![NIS2/NSM Norway](https://img.shields.io/badge/NIS2%2FNSM-Norway-teal)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-purple)
 ```
 [![Alt text](image URL)](link URL)
 A virtual penetration testing lab comparing UK Cyber Essentials and Norwegian NIS2 cybersecurity frameworks.
