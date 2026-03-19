@@ -54,12 +54,24 @@ Both target machines were fully configured to their respective baselines *before
 | PowerShell | Baseline configuration and verification |
 | Oracle VirtualBox 7.1.10 | Lab environment management |
 
-## Security Objectives
+## Testing Methodology
 
-- Simulate ethical penetration testing within an isolated enterprise lab
-- Compare vulnerability exposure under different regulatory security baselines
-- Evaluate how compliance-driven and risk-driven frameworks affect attack surface
-- Apply structured reconnaissance, enumeration, and exploitation techniques
-- Document findings and relate them to defensive configuration choices
+Testing Methodology
+Testing followed a structured five-phase penetration testing methodology applied identically to both targets:
+Phase 1 — Enumeration
+Host discovery and attack surface mapping via Nmap. Service enumeration to identify information leakage and exposed ports. Both machines were subjected to identical scan profiles.
+Phase 2 — Vulnerability Assessment
+Web application scanning via Nikto. Network-level vulnerability probing. Assessment of exposed services against known CVEs.
+Phase 3 — Exploitation
+
+EternalBlue (MS17-010): Metasploit module targeting SMB vulnerability — the same exploit used in the 2017 WannaCry attack on the NHS
+Credential attacks: Hydra brute-force against RDP (port 3389)
+Certain tools (OWASP ZAP, pass-the-hash) were excluded with documented justification
+
+Phase 4 — Post-Exploitation Analysis
+Theoretical exercise: what lateral movement and persistence would be possible given successful initial access?
+Phase 5 — Regulatory Synthesis
+Findings mapped back to specific framework controls to explain observed differences in defensive effectiveness.
+
 
 Update README to professional portfolio version
