@@ -8,7 +8,7 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-purple) 
 ![Metasploit](https://img.shields.io/badge/Metasploit-red) 
 ![Grade](https://img.shields.io/badge/Degree-2%3A1_Honours-brightgreen) 
-```
+
 [![Alt text](image URL)](link URL)
 A virtual penetration testing lab comparing UK Cyber Essentials and Norwegian NIS2 cybersecurity frameworks.
 
