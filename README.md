@@ -17,13 +17,11 @@ The project addresses a gap identified in the literature: while UK and Norwegian
 
 *How does regulatory philosophy compliance-based (UK Cyber Essentials) versus risk-based (Norwegian NSM/NIS2) affect an organisation's technical security posture when measured through identical penetration testing methodology?*
 
-## Lab Environment 
+## Lab Architecture
 
-|Machine      | IP Address    | Description                    |
-|-------------|---------------|--------------------------------|
-|Kali Linux   |10.10.0.6      |Attacker VM                     |
-|UK-Win       |10.10.0.7      |Target system (Cyber Essentials)|
-|NO-Win       |10.10.0.8      |Target system (NIS2/NSM Norway) |
+Three virtual machines hosted in Oracle VirtualBox 7.1.10 on an isolated NAT network (10.10.0.x), ensured full legal and ethical containment under the Computer Misuse Act 1990.
+
+MachineIPRoleFrameworkKali Linux 2025.110.10.0.6Attacker—UK-PC (Windows 11)10.10.0.4TargetUK Cyber Essentials v3.2NO-PC (Windows 11)10.10.0.8TargetNSM / NIS2 (Digitalsikkerhetsloven)
 
 The lab was hosted in Oracle VirtualBox using a NAT network to ensure
 full isolation from external systems. Static IP addressing was used
